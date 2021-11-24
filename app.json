@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "BeastMode",
+    "slug": "BeastMode",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/image/etopantay.png",
+    "splash": {
+      "image": "./assets/image/etopantay.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ACL.BeastMode",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
